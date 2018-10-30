@@ -1,0 +1,70 @@
+/*home page*/
+.home-title{
+    font-family: 'Rubik', sans-serif;
+    font-size: 55px;
+}
+
+.slogan{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+.home-background{
+    background: #4568DC;  
+    background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);  
+    background: linear-gradient(to right, #B06AB3, #4568DC); 
+    border-bottom: 2px solid linear-gradient(to right, #B06AB3, #4568DC);
+}
+/*about page*/
+.about-background{
+    background-color: #b3b3b3;
+}
+
+.about-info{
+    background-color: black;
+    text-align: center;
+    height: 205px;
+    width: 500px;
+}
+
+.about-title{
+    text-align: center;
+    color: white;
+}
+
+.about-text{
+    text-align: center;
+    color: white;
+}
+
+/*pricing page*/
+.pricing-background{
+}
+
+/*contact page*/
+.contact-background{
+    background-color: #1c3f8c; 
+}
+
+.contact-title{
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.name{
+    color: white;
+}
+
+.contact{
+    padding-top: 45px;
+    padding-bottom: -50px;
+    width: 500px;
+    height: 200px;
+    background-color: #12295b;
+}
+
+.contact-link{
+    color: #a82f99; 
+}
